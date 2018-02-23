@@ -1,0 +1,30 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "pumpDeployment",
+            "member": "pumpDeployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "services",
+            "asset_id": "edgeDeviceUpdate",
+            "deployment": "pumpDeployment",
+            "member": "pumpDeployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "timers",
+            "asset_id": "edgeDeviceUpdateTimer",
+            "deployment": "pumpDeployment",
+            "member": "pumpDeployment_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "",
+    "edges": [
+        "pumpEdge"
+    ],
+    "name": "pumpDeployment"
+}
