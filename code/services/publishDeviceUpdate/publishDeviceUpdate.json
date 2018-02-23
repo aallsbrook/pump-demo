@@ -1,0 +1,10 @@
+{
+    "current_version": 3,
+    "dependencies": "log,clearblade",
+    "logging_enabled": "false",
+    "name": "publishDeviceUpdate",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "publishDeviceUpdate.js"
+}
