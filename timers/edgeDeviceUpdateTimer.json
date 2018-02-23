@@ -1,0 +1,8 @@
+{
+    "description": "Update device information from machine data stream",
+    "frequency": 10,
+    "name": "edgeDeviceUpdateTimer",
+    "repeats": -1,
+    "service_name": "edgeDeviceUpdate",
+    "start_time": "2018-01-31T16:14:20Z"
+}
