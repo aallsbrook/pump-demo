@@ -1,0 +1,34 @@
+{
+    "author": {
+        "email": "aaron@clearblade.com"
+    },
+    "clouds": [],
+    "description": "This is a base system demonstrating how to create and manage edges with their associated deployments.",
+    "domains": [
+        "asset management"
+    ],
+    "gateways": [
+        "raspberry pi"
+    ],
+    "image_url": "https://i.imgur.com/yyCrcgS.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "pump-demo",
+    "private": false,
+    "prog_lang": [
+        "javascript"
+    ],
+    "protocols": [
+        "mqtt",
+        "web socket",
+        "http"
+    ],
+    "things": [
+        "pump"
+    ],
+    "version": "0.4"
+}
