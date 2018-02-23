@@ -1,0 +1,13 @@
+{
+    "description": null,
+    "last_seen_version": "3.22-rc4",
+    "location": null,
+    "mac_address": null,
+    "name": "aaronsEdge",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "a8b79ba70b84fe8afe89e9eac259",
+    "system_secret": "A8B79BA70B80D889B5EF9681BBC701",
+    "token": "LE8f5Ax11V8W2r308lL4tysH881"
+}
