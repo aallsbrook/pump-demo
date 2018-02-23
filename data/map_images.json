@@ -1,0 +1,27 @@
+{
+    "app_id": "a8b79ba70b84fe8afe89e9eac259",
+    "collection_id": "dc86eca80bd4b5bb9ea0c7fdb18901",
+    "items": [],
+    "name": "map_images",
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "device_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "image_base64",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
