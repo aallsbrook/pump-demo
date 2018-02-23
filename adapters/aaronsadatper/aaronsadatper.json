@@ -1,0 +1,14 @@
+{
+    "architecture": "MacOS64",
+    "deploy_command": "",
+    "description": "demo",
+    "logs_command": "",
+    "name": "aaronsadatper",
+    "os": "",
+    "protocol": "",
+    "start_command": "",
+    "status_command": "",
+    "stop_command": "",
+    "undeploy_command": "",
+    "version": 1
+}
