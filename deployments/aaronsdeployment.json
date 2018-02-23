@@ -1,0 +1,23 @@
+{
+    "assets": [
+        {
+            "asset_class": "aarondata",
+            "asset_id": "",
+            "deployment": "aaronsdeployment",
+            "member": "aaronsdeployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "aaronsdeployment",
+            "member": "aaronsdeployment_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "",
+    "edges": [
+        "aaronsEdge"
+    ],
+    "name": "aaronsdeployment"
+}
