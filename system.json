@@ -1,0 +1,64 @@
+{
+    "auth": true,
+    "deployments": [
+        {
+            "assets": [
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "pumpDeployment",
+                    "member": "pumpDeployment_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "services",
+                    "asset_id": "edgeDeviceUpdate",
+                    "deployment": "pumpDeployment",
+                    "member": "pumpDeployment_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "timers",
+                    "asset_id": "edgeDeviceUpdateTimer",
+                    "deployment": "pumpDeployment",
+                    "member": "pumpDeployment_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "",
+            "edges": [
+                "pumpEdge"
+            ],
+            "name": "pumpDeployment"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "aarondata",
+                    "asset_id": "",
+                    "deployment": "aaronsdeployment",
+                    "member": "aaronsdeployment_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "aaronsdeployment",
+                    "member": "aaronsdeployment_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "",
+            "edges": [
+                "aaronsEdge"
+            ],
+            "name": "aaronsdeployment"
+        }
+    ],
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "pump-demo",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "a8b79ba70b84fe8afe89e9eac259",
+    "system_secret": "A8B79BA70B80D889B5EF9681BBC701"
+}
