@@ -1,0 +1,49 @@
+{
+    "columns": [
+        {
+            "ColumnName": "last_start_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "is_pumping",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "rpm",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "suction",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "amps",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "voltage",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "temperature",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_update",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "backpressure",
+            "ColumnType": "double",
+            "PK": false
+        }
+    ]
+}
