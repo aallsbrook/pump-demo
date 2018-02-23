@@ -1,0 +1,19 @@
+{
+    "allow_certificate_auth": true,
+    "allow_key_auth": true,
+    "amps": 253,
+    "backpressure": 132,
+    "certificate": "",
+    "description": "Centrifugal Coolant Pump",
+    "enabled": true,
+    "is_pumping": true,
+    "last_start_time": null,
+    "last_update": "2018-02-23T16:50:20.017Z",
+    "name": "pump101",
+    "rpm": 8967,
+    "state": "",
+    "suction": 69,
+    "temperature": 117,
+    "type": "Industrial Pump",
+    "voltage": 16
+}
