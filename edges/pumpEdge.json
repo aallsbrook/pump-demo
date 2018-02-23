@@ -1,0 +1,13 @@
+{
+    "description": "Get data from a pump",
+    "last_seen_version": "3.22-rc2",
+    "location": null,
+    "mac_address": null,
+    "name": "pumpEdge",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "a8b79ba70b84fe8afe89e9eac259",
+    "system_secret": "A8B79BA70B80D889B5EF9681BBC701",
+    "token": "0719cF0v8mBeKs2893gLYG52j1Em3"
+}
