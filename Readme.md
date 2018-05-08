@@ -13,25 +13,18 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 ## Setup
 
-_Add any setup instructions, such as an API Key_
+To run this demonstration yourself see the instructions found here
+[link to setup blog!](https://www.clearblade.com/blog/guide-quickly-deploy-iot-solutions-clearblade-edge)
 
-## API
-
-_Document your API here_
 
 ## Usage
 
-_Describe assets_
+Follow the instructions to setup your own edge
 
-### Code Services
-
-### Code Libraries
 
 ### Portals
 
-### Collections
-
-### ...
+Pump Alert - a basic portal for visualizing data coming from your pumps
 
 ## Thank you
 
