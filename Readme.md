@@ -9,6 +9,8 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 [Browse ipm Packages](https://ipm.clearblade.com)
 
+[![pump demo video](https://img.youtube.com/vi/WGKTLFPMtAE/0.jpg)](https://www.youtube.com/watch?v=WGKTLFPMtAE)
+
 ## Setup
 
 _Add any setup instructions, such as an API Key_
