@@ -2,6 +2,14 @@
     "author": {
         "email": "aaron@clearblade.com"
     },
+    "asset_types":[
+        "System",
+        "Code Services",
+        "Code Libraries",
+        "Portals",
+        "Edges",
+        "Devices"
+    ],
     "clouds": [],
     "description": "This is a base system demonstrating how to create and manage edges with their associated deployments.",
     "domains": [
