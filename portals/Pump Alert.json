@@ -1403,8 +1403,6 @@
     "description": "",
     "last_updated": "05 Apr 18 18:38 UTC",
     "name": "Pump Alert",
-    "permissions": 0,
-    "plugins": [],
     "system_key": "a2acb3ac0bdee1f3fca28a8ff4d901",
     "type": "custom_v2"
 }
