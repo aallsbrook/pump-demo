@@ -1619,8 +1619,6 @@
     "last_updated": "20 Jul 18 20:58 UTC",
     "name": "Pump Alert",
     "namespace": "",
-    "permissions": 0,
-    "plugins": [],
     "system_key": "f2e8f1b40ba4cce2fadcddb099be01",
     "type": "custom_v2"
 }
