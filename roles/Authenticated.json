@@ -3,13 +3,28 @@
     "ID": "Authenticated",
     "Name": "Authenticated",
     "Permissions": {
-        "CodeServices": [],
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "edgeDeviceUpdate",
+                "SystemKey": "f2e8f1b40ba4cce2fadcddb099be01"
+            }
+        ],
         "Collections": [],
         "Deployments": {
             "Level": 0
         },
         "DevicesList": {
             "Level": 1
+        },
+        "EdgesList": {
+            "Level": 0
         },
         "MsgHistory": {
             "Level": 1
@@ -18,14 +33,27 @@
             {
                 "Level": 1,
                 "Name": "Pump Alert",
-                "SystemKey": "a8b79ba70b84fe8afe89e9eac259"
+                "SystemKey": "f2e8f1b40ba4cce2fadcddb099be01"
             }
         ],
         "Push": {
             "Level": 0
         },
-        "SystemServices": null,
-        "Topics": [],
+        "Roles": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [
+            {
+                "Level": 3,
+                "Name": "#"
+            }
+        ],
+        "Triggers": {
+            "Level": 0
+        },
         "UsersList": {
             "Level": 0
         }
