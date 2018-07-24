@@ -27,14 +27,7 @@
             }
         ],
         "Collections": [
-            {
-                "Columns": [],
-                "ID": "dc86eca80bd4b5bb9ea0c7fdb18901",
-                "Items": [],
-                "Level": 1,
-                "Name": "dc86eca80bd4b5bb9ea0c7fdb18901"
-            },
-            {
+	{
                 "Columns": [],
                 "ID": "f6e8f1b40b9a9fd7d3a9c7d4d3ec01",
                 "Items": [],
