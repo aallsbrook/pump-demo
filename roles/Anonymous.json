@@ -3,22 +3,45 @@
     "ID": "Anonymous",
     "Name": "Anonymous",
     "Permissions": {
+        "AllCollections": {
+            "Level": 1
+        },
+        "AllServices": {
+            "Level": 15
+        },
         "CodeServices": [
             {
                 "Level": 1,
+                "Name": "edgeDeviceUpdate",
+                "SystemKey": "f2e8f1b40ba4cce2fadcddb099be01"
+            },
+            {
+                "Level": 1,
                 "Name": "getDevice",
-                "SystemKey": "a8b79ba70b84fe8afe89e9eac259"
+                "SystemKey": "f2e8f1b40ba4cce2fadcddb099be01"
             },
             {
                 "Level": 1,
                 "Name": "getPumpImage",
-                "SystemKey": "a8b79ba70b84fe8afe89e9eac259"
+                "SystemKey": "bcdbbdb50bcccba1dbb7c196d82e"
+            },
+            {
+                "Level": 1,
+                "Name": "publishDeviceUpdate",
+                "SystemKey": "bcdbbdb50bcccba1dbb7c196d82e"
             }
         ],
         "Collections": [
             {
                 "Columns": [],
                 "ID": "dc86eca80bd4b5bb9ea0c7fdb18901",
+                "Items": [],
+                "Level": 1,
+                "Name": "dc86eca80bd4b5bb9ea0c7fdb18901"
+            },
+            {
+                "Columns": [],
+                "ID": "f6e8f1b40b9a9fd7d3a9c7d4d3ec01",
                 "Items": [],
                 "Level": 1,
                 "Name": "map_images"
@@ -28,23 +51,31 @@
             "Level": 0
         },
         "DevicesList": {
-            "Level": 1
+            "Level": 15
+        },
+        "EdgesList": {
+            "Level": 15
         },
         "MsgHistory": {
-            "Level": 0
+            "Level": 9
         },
         "Portals": [
             {
                 "Level": 1,
                 "Name": "Pump Alert",
-                "SystemKey": "a8b79ba70b84fe8afe89e9eac259"
+                "SystemKey": "f2e8f1b40ba4cce2fadcddb099be01"
             }
         ],
         "Push": {
             "Level": 0
         },
-        "SystemServices": null,
+        "Timers": {
+            "Level": 15
+        },
         "Topics": [],
+        "Triggers": {
+            "Level": 15
+        },
         "UsersList": {
             "Level": 0
         }
