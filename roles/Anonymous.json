@@ -72,7 +72,11 @@
         "Timers": {
             "Level": 15
         },
-        "Topics": [],
+        "Topics": [
+	{
+            "Level": 3,
+            "Name": "#"
+    	}],
         "Triggers": {
             "Level": 15
         },
